@@ -1,1 +1,2 @@
 # tester-ip
+INSTALACION EN TERMUX 
